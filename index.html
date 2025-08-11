@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music Player</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="music-player">
+            <div class="song-info">
+                <h2 id="song-title">Song Title</h2>
+                <p id="artist-name">Artist Name</p>
+            </div>
+            <audio id="audio-player" src="./song.mpeg"></audio>
+            <div class="progress-container" id="progress-container">
+                <div class="progress-bar" id="progress-bar"></div>
+            </div>
+            <div class="controls">
+                <button id="prev-btn" class="control-btn">⏮</button>
+                <button id="play-pause-btn" class="control-btn">▶️</button>
+                <button id="next-btn" class="control-btn">⏭</button>
+            </div>
+            <input type="range" id="volume-control" min="0" max="1" step="0.01">
+        </div>
+        <button id="theme-btn" class="theme-btn">🌙</button>
+    </div>
+    <footer>
+        <p>© 2025 Music Player. All Rights Reserved.</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
