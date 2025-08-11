@@ -100,3 +100,5 @@ prevBtn.addEventListener('click', prevSong);
 themeBtn.addEventListener('click', toggleTheme);
 
 loadSong(songs[currentSongIndex]);
+
+document.getElementById("currentYear").textContent = new Date().getFullYear();
