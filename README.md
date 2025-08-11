@@ -1,6 +1,20 @@
 # 🎵 Music Player
 
-Welcome to the **Music Player** project! This web application allows users to play their favorite songs with an intuitive interface. Built with HTML, CSS, and JavaScript, it features a modern design and essential functionalities.
+Welcome to the **Music Player** project! This web application allows users to play their favorite songs with an intuitive interface. Built with HTML, CSS, and JavaScript, it features a modern design and essential functionalities. 
+
+<b>Light Mode</b>
+<p align="center">
+  <kbd>
+    <img src="https://github.com/musamaakhtar-tech/Music_Player/blob/main/Music_Player_Light.png" alt="Music Player Light Mode Demo">
+  </kbd>
+</p>
+
+<b>Dark Mode</b>
+<p align="center">
+  <kbd>
+    <img src="https://github.com/musamaakhtar-tech/Music_Player/blob/main/Music_Player_Light.png" alt="Music Player Dark Mode Demo">
+  </kbd>
+</p>
 
 ## 🚀 Features
 
