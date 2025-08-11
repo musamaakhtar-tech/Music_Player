@@ -12,7 +12,7 @@ Welcome to the **Music Player** project! This web application allows users to pl
 <b>Dark Mode</b>
 <p align="center">
   <kbd>
-    <img src="https://github.com/musamaakhtar-tech/Music_Player/blob/main/Music_Player_Light.png" alt="Music Player Dark Mode Demo">
+    <img src="https://github.com/musamaakhtar-tech/Music_Player/blob/main/Music_Player_Dark.png" alt="Music Player Dark Mode Demo">
   </kbd>
 </p>
 
